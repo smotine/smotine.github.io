@@ -1,9 +1,9 @@
-body {
-    font-family: 'Faster One', cursive;
-    font-family: 'Special Elite', cursive;
-}
+body {}
 h3 {
     font-family: 'Faster One', cursive;
+}
+h4 {
+    font-family: 'Special Elite', cursive;
 }
 .hero-body .title {
     text-shadow: 0px 3px 10px #000;
